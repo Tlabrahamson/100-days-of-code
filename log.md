@@ -2,8 +2,8 @@
 
 ### Day 1: May 7, 2020
 
-**Today's Progress**: 
+**Today's Progress**:  
 
 **Thoughts:** 
 
-**Link to work:** 
+**Link to work:**
