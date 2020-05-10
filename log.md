@@ -17,3 +17,13 @@
 **Thoughts:** I've done about as much as I care to do for this project. I'll add a bit more styling and maybe a copy button for the log. Feelsgoodman.
 
 **Link to work:** https://github.com/Tlabrahamson/100-days-of-code-log-tool
+
+
+
+### Day 3: May 10, 2020
+
+**Today's Progress:** I added a message for when the countdown ends. I also added a copy button to the log form.
+            
+**Thoughts:** I feel accomplished!
+            
+**Link to work:** https://github.com/Tlabrahamson/100-days-of-code-log-tool
