@@ -27,3 +27,13 @@
 **Thoughts:** I feel accomplished!
             
 **Link to work:** https://github.com/Tlabrahamson/100-days-of-code-log-tool
+
+
+
+### Day 4: May 11, 2020
+
+**Today's Progress:** I began working on a social media project that will use react.js and Firebase as a backend.
+            
+**Thoughts:** I'm excited to revisit certain tools that I didn't understand before.
+            
+**Link to work:** N/A
