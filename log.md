@@ -37,3 +37,13 @@
 **Thoughts:** I'm excited to revisit certain tools that I didn't understand before.
             
 **Link to work:** N/A
+
+
+
+### Day 5: May 12, 2020
+
+**Today's Progress:** Today I began working on user authentication for my next program.
+            
+**Thoughts:** I really want to nail this down so I am taking my time.
+            
+**Link to work:** N/A
