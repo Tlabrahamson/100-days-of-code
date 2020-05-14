@@ -47,3 +47,13 @@
 **Thoughts:** I really want to nail this down so I am taking my time.
             
 **Link to work:** N/A
+
+
+
+### Day 6: May 13, 2020
+
+**Today's Progress:** Continued work on user authentication with React hooks and Firebase.
+            
+**Thoughts:** Feeling goooooooood.
+            
+**Link to work:** N/A
