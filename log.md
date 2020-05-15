@@ -57,3 +57,13 @@
 **Thoughts:** Feeling goooooooood.
             
 **Link to work:** N/A
+
+
+
+### Day 7: May 14, 2020
+
+**Today's Progress:** Just about finished with user authentication for my latest web app. Planning user content.
+            
+**Thoughts:** A little tired. Feeling good though.
+            
+**Link to work:** N/A
