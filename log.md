@@ -67,3 +67,13 @@
 **Thoughts:** A little tired. Feeling good though.
             
 **Link to work:** N/A
+
+
+
+### Day 8: May 15, 2020
+
+**Today's Progress:** User authentication is up and running. Worked on navigation and styling.
+            
+**Thoughts:** Wish I had more time!
+            
+**Link to work:** N/A
