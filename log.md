@@ -77,3 +77,13 @@
 **Thoughts:** Wish I had more time!
             
 **Link to work:** N/A
+
+
+
+### Day 9: May 16, 2020
+
+**Today's Progress:** Added the ability for users to upload a profile picture after they are authenticated.
+            
+**Thoughts:** Feeling accomplished.
+            
+**Link to work:** Not yet!
