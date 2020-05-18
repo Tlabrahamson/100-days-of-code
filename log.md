@@ -87,3 +87,13 @@
 **Thoughts:** Feeling accomplished.
             
 **Link to work:** Not yet!
+
+
+
+### Day 10: May 17, 2020
+
+**Today's Progress:** Adding the ability to update a user's profile/image. Got a little hung up.
+            
+**Thoughts:** I am not frustrated just yet. I feel like I need to take a step back and think about it.
+            
+**Link to work:** I'll post one once the project is complete!
