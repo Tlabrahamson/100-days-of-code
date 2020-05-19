@@ -97,3 +97,13 @@
 **Thoughts:** I am not frustrated just yet. I feel like I need to take a step back and think about it.
             
 **Link to work:** I'll post one once the project is complete!
+
+
+
+### Day 11: May 18, 2020
+
+**Today's Progress:** I got the profile image url updating but I need to turn multiple functions into one so there aren't a bunch of buttons triggering different events.
+            
+**Thoughts:** I feel good. No pressure because I am doing this for fun.
+            
+**Link to work:** N/A
