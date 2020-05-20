@@ -107,3 +107,13 @@
 **Thoughts:** I feel good. No pressure because I am doing this for fun.
             
 **Link to work:** N/A
+
+
+
+### Day 12: May 19, 2020
+
+**Today's Progress:** Worked on a WordPress project for a client.
+            
+**Thoughts:** I want to put some time in on my personal project but I am kind of burned out from the CMS.
+            
+**Link to work:** N/A
