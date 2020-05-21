@@ -117,3 +117,13 @@
 **Thoughts:** I want to put some time in on my personal project but I am kind of burned out from the CMS.
             
 **Link to work:** N/A
+
+
+
+### Day 13: May 20, 2020
+
+**Today's Progress:** Back at it with the React/Firebase project. Added some features. Caused some bugs. Good stuff.
+            
+**Thoughts:** I will get this project in working order!
+            
+**Link to work:** N/A
