@@ -127,3 +127,13 @@
 **Thoughts:** I will get this project in working order!
             
 **Link to work:** N/A
+
+
+
+### Day 14: May 21, 2020
+
+**Today's Progress:** Fixed some routing bugs on my React/Firebase project. Things were wacky because of authentication state. 
+            
+**Thoughts:** Fixed one issue. On to the next one!
+            
+**Link to work:** N/A
