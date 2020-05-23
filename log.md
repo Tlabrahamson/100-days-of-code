@@ -137,3 +137,14 @@
 **Thoughts:** Fixed one issue. On to the next one!
             
 **Link to work:** N/A
+
+
+
+
+### Day 15: May 22, 2020
+
+**Today's Progress:** Having to take a break from my personal project to focus on client work. Did some of that today.
+            
+**Thoughts:** Feels good.
+            
+**Link to work:** N/A
