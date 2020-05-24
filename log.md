@@ -148,3 +148,14 @@
 **Thoughts:** Feels good.
             
 **Link to work:** N/A
+
+
+
+
+### Day 16: May 23, 2020
+
+**Today's Progress:** I worked on some client work today. Squeezed in some time for a personal project.
+            
+**Thoughts:** Coding makes me feel good. 
+            
+**Link to work:** N/A
