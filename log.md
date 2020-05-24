@@ -159,3 +159,14 @@
 **Thoughts:** Coding makes me feel good. 
             
 **Link to work:** N/A
+
+
+
+
+### Day 17: May 24, 2020
+
+**Today's Progress:** Finished up my beat sequencer project. Started working on a theme creation project. Also made time for my social media project. Project project project.
+            
+**Thoughts:** I can tell that I am constantly improving. That's nice.
+            
+**Link to work:** N/A
