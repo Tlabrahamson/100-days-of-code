@@ -170,3 +170,14 @@
 **Thoughts:** I can tell that I am constantly improving. That's nice.
             
 **Link to work:** N/A
+
+
+
+
+### Day 18: May 25, 2020
+
+**Today's Progress:** Continued work on the theme creation project. Added input updates so they match with the corresponding hex color. Also added copy functionality.
+            
+**Thoughts:** A little stumped on the social media project. That's okay though.
+            
+**Link to work:** N/A
