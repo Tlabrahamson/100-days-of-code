@@ -181,3 +181,15 @@
 **Thoughts:** A little stumped on the social media project. That's okay though.
             
 **Link to work:** N/A
+
+
+
+
+### Day 19: May 26, 2020
+
+**Today's Progress:** Almost finished with my theme project. Just a few more features to implement and then I may look into making it mobile friendly.
+            
+**Thoughts:** I've made some pretty good breakthroughs between yesterday and today. It's all uphill from here.
+            
+**Link to work:** N/A
+
