@@ -193,3 +193,13 @@
             
 **Link to work:** N/A
 
+
+
+
+### Day 20: May 27, 2020
+
+**Today's Progress:** Worked on a client's WordPress website. I hope to make some time for some JavaScript hotness tonight.
+            
+**Thoughts:** I don't really enjoy working with WordPress. I understand why it is widely used but I have more fun with JavaScript.
+            
+**Link to work:** N/A
