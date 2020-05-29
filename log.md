@@ -214,3 +214,14 @@
 **Thoughts:** I should use libraries more often. ;)
             
 **Link to work:** N/A
+
+
+
+
+### Day 22: May 29, 2020
+
+**Today's Progress:** Just about finished with my fancy-website project. Added more JavaScript animations and worked on responsive design.
+            
+**Thoughts:** I need to start practicing data structures and algorithms. It's the only thing holding me back.
+            
+**Link to work:** N/A
