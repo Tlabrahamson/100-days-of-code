@@ -203,3 +203,14 @@
 **Thoughts:** I don't really enjoy working with WordPress. I understand why it is widely used but I have more fun with JavaScript.
             
 **Link to work:** N/A
+
+
+
+
+### Day 21: May 28, 2020
+
+**Today's Progress:** Spent time learning about some fancy JavaScript librarys. GSAP and ScrollMagic. They both help make smooth/slick animations.
+            
+**Thoughts:** I should use libraries more often. ;)
+            
+**Link to work:** N/A
