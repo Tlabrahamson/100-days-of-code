@@ -225,3 +225,14 @@
 **Thoughts:** I need to start practicing data structures and algorithms. It's the only thing holding me back.
             
 **Link to work:** N/A
+
+
+
+
+### Day 23: May 30, 2020
+
+**Today's Progress:** Taking a step away from all current projects except for client projects to work on data structures and algorithms. Today I built a stack.
+            
+**Thoughts:** This is going to be tough but necessary.
+            
+**Link to work:** N/A
