@@ -236,3 +236,14 @@
 **Thoughts:** This is going to be tough but necessary.
             
 **Link to work:** N/A
+
+
+
+
+### Day 24: May 31, 2020
+
+**Today's Progress:** Continued my studies on data structures. I can build a stack from memory. Started working on queues.
+            
+**Thoughts:** It may be difficult to retain all of this information. I will continue drilling it.
+            
+**Link to work:** N/A
