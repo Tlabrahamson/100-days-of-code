@@ -247,3 +247,14 @@
 **Thoughts:** It may be difficult to retain all of this information. I will continue drilling it.
             
 **Link to work:** N/A
+
+
+
+
+### Day 25: June 1, 2020
+
+**Today's Progress:** Able to build a stack and a queue from scratch now. I'm practicing linked list for the rest of the day.
+            
+**Thoughts:** I hope to get a good grip on these data structures and begin to start thinking like a developer.
+            
+**Link to work:** N/A
