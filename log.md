@@ -269,3 +269,14 @@
 **Thoughts:** Honestly, I feel drained. There is so much going on outside of coding right now. It's hard to stay focused.
             
 **Link to work:** N/A
+
+
+
+
+### Day 27: June 3, 2020
+
+**Today's Progress:** Taking a little break from data structures to work on building a project. I started working with user authentication again and utilized auth0 for handling. I found it to be a bit more streamlined than Firebase and will no probably start from scratch with my social media project. It just seems like it may be worth it for handling the authentication. I still need to figure out what I want to do about a database though...Firebase?
+            
+**Thoughts:** Still feeling bummed. I want to build. I want to get hired. I want to feel good. 
+            
+**Link to work:** N/A
