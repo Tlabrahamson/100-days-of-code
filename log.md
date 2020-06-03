@@ -258,3 +258,14 @@
 **Thoughts:** I hope to get a good grip on these data structures and begin to start thinking like a developer.
             
 **Link to work:** N/A
+
+
+
+
+### Day 26: June 2, 2020
+
+**Today's Progress:** Continued learning basic data structures. I understand how a linked list works but I can't quite work it out on my own yet. I'll keep cramming.
+            
+**Thoughts:** Honestly, I feel drained. There is so much going on outside of coding right now. It's hard to stay focused.
+            
+**Link to work:** N/A
