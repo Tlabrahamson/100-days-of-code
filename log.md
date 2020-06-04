@@ -280,3 +280,14 @@
 **Thoughts:** Still feeling bummed. I want to build. I want to get hired. I want to feel good. 
             
 **Link to work:** N/A
+
+
+
+
+### Day 28: June 4, 2020
+
+**Today's Progress:** Honestly, the more I look into the social media project, the more I don't want to work on it just yet. I am stepping away from that until my confidence grows and I find a better stack solution. Today I started building out a game using three.js. Sort of a 180 but I really want to do something that I will enjoy creating. This is for me. 
+            
+**Thoughts:** I've become super depressed. Not because of code. Every day I open my browser there is some new bit of news that hurts my soul. I wish nothing but happiness and equality for everyone.
+            
+**Link to work:** N/A
