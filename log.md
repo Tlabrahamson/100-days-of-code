@@ -291,3 +291,14 @@
 **Thoughts:** I've become super depressed. Not because of code. Every day I open my browser there is some new bit of news that hurts my soul. I wish nothing but happiness and equality for everyone.
             
 **Link to work:** N/A
+
+
+
+
+### Day 29: June 5, 2020
+
+**Today's Progress:** Began work on BIG FISH. I am hoping to be able to put together a little game. I have some cool stuff going so far but the logic may be difficult to implement. WE SHALL SEE!
+            
+**Thoughts:** Three.js is an amazing library. I have no clue how I hadn't heard of it before. 
+            
+**Link to work:** N/A
