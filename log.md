@@ -302,3 +302,14 @@
 **Thoughts:** Three.js is an amazing library. I have no clue how I hadn't heard of it before. 
             
 **Link to work:** N/A
+
+
+
+
+### Day 30: June 6, 2020
+
+**Today's Progress:** I was able to display some 3D models to the screen for BIG FISH. I also have a little fish that follows the mouse cursor. I started working on the enemy fish.
+            
+**Thoughts:** Very impressed by three.js
+            
+**Link to work:** https://github.com/Tlabrahamson/big-fish
