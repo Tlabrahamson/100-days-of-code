@@ -337,3 +337,14 @@
 **Thoughts:** I like the page that I made enough to work on it more. I am going to add some JavaScript for scroll animations tomorrow. 
             
 **Link to work:** https://github.com/Tlabrahamson/synth
+
+
+
+
+### Day 32: June 8, 2020
+
+**Today's Progress:** Continued working on SYNTH. I added some JavaScript animations to the sections.
+            
+**Thoughts:** I've decided to build out SYNTH. I am having a good time working on it. I'll get back to the real grind when it is to my liking.
+            
+**Link to work:** https://github.com/Tlabrahamson/synth
