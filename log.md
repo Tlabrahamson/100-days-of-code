@@ -341,10 +341,11 @@
 
 
 
+
 ### Day 32: June 8, 2020
 
-**Today's Progress:** Continued working on SYNTH. I added some JavaScript animations to the sections.
+**Today's Progress:** Continued working on SYNTH. I added a hero area that I am hoping to loop an animation. I am trying to find a free animation/video editing software that could help me out.
             
-**Thoughts:** I've decided to build out SYNTH. I am having a good time working on it. I'll get back to the real grind when it is to my liking.
+**Thoughts:** Still having fun/
             
 **Link to work:** https://github.com/Tlabrahamson/synth
