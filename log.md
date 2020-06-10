@@ -346,6 +346,6 @@
 
 **Today's Progress:** Continued working on SYNTH. I added a hero area that I am hoping to loop an animation. I am trying to find a free animation/video editing software that could help me out.
             
-**Thoughts:** Still having fun/
+**Thoughts:** Still having fun.
             
 **Link to work:** https://github.com/Tlabrahamson/synth
