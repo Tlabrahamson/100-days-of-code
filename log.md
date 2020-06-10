@@ -341,8 +341,18 @@
 
 
 
-
 ### Day 32: June 8, 2020
+
+**Today's Progress:** Continued work on SYNTH. Added more animations. 
+            
+**Thoughts:** I am enjoying this project.
+            
+**Link to work:** https://github.com/Tlabrahamson/synth
+
+
+
+
+### Day 33: June 9, 2020
 
 **Today's Progress:** Continued working on SYNTH. I added a hero area that I am hoping to loop an animation. I am trying to find a free animation/video editing software that could help me out.
             
