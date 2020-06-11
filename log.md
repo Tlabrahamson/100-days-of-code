@@ -359,3 +359,14 @@
 **Thoughts:** Still having fun.
             
 **Link to work:** https://github.com/Tlabrahamson/synth
+
+
+
+
+### Day 34: June 10, 2020
+
+**Today's Progress:** Spent way too long on the design aspect of Synth and not enough coding. I think it will pay off though.
+            
+**Thoughts:** Woot!
+            
+**Link to work:** https://github.com/Tlabrahamson/synth
