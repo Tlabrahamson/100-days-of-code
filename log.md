@@ -370,3 +370,14 @@
 **Thoughts:** Woot!
             
 **Link to work:** https://github.com/Tlabrahamson/synth
+
+
+
+
+### Day 35: June 11, 2020
+
+**Today's Progress:** Finished the hero area of SYNTH. and animated the burger menu. Also made the menu functional. W00t.
+            
+**Thoughts:** I am very satisfied with today's progress. I like the website that I've created.
+            
+**Link to work:** https://github.com/Tlabrahamson/synth
