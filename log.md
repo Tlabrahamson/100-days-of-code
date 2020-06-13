@@ -392,3 +392,14 @@
 **Thoughts:** It's been a busy day. I wish I could say it was spent coding. :P
             
 **Link to work:** https://github.com/Tlabrahamson/synth
+
+
+
+
+### Day 37: June 13, 2020
+
+**Today's Progress:** I added one last section to my website. Going to work on some illustrations to fill in the rest of the white space. I also worked on responsive design. Everything is coming together!
+            
+**Thoughts:** I hope I can do some good doodles. I like this website's design/flow and hope to finish it right.
+            
+**Link to work:** https://github.com/Tlabrahamson/synth
