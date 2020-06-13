@@ -381,3 +381,14 @@
 **Thoughts:** I am very satisfied with today's progress. I like the website that I've created.
             
 **Link to work:** https://github.com/Tlabrahamson/synth
+
+
+
+
+### Day 36: June 12, 2020
+
+**Today's Progress:** Just about finished with SYNTH. I may create a background for the menu, tweak some other things, and deploy it.
+            
+**Thoughts:** It's been a busy day. I wish I could say it was spent coding. :P
+            
+**Link to work:** https://github.com/Tlabrahamson/synth
