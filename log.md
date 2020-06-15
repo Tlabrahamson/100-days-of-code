@@ -403,3 +403,14 @@
 **Thoughts:** I hope I can do some good doodles. I like this website's design/flow and hope to finish it right.
             
 **Link to work:** https://github.com/Tlabrahamson/synth
+
+
+
+
+### Day 38: June 14, 2020
+
+**Today's Progress:** Added more animations to SYNTH. I also did another illustration and plan on starting the next one. Two more drawings and some finishing touches. Almost deploy time.
+            
+**Thoughts:** I enjoy drawing on the iPad. Also I enjoy this website.
+            
+**Link to work:** https://github.com/Tlabrahamson/synth
