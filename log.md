@@ -414,3 +414,14 @@
 **Thoughts:** I enjoy drawing on the iPad. Also I enjoy this website.
             
 **Link to work:** https://github.com/Tlabrahamson/synth
+
+
+
+
+### Day 39: June 15, 2020
+
+**Today's Progress:** Added the final illustration and animations to SYNTH. I deployed it as well. Feels nice to finish something up. The only thing that I would change at this point is the lorem text but this website is mostly for the aesthetic.
+            
+**Thoughts:** Another piece for my portfolio!
+            
+**Link to work:** https://synth-wav.netlify.app
