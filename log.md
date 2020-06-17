@@ -425,3 +425,14 @@
 **Thoughts:** Another piece for my portfolio!
             
 **Link to work:** https://synth-wav.netlify.app
+
+
+
+
+### Day 40: June 16, 2020
+
+**Today's Progress:** Had a small delivery of client content so I worked on that today.
+            
+**Thoughts:** I should rework my portfolio a bit...
+            
+**Link to work:** N/A
