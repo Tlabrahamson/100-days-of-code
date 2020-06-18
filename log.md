@@ -436,3 +436,14 @@
 **Thoughts:** I should rework my portfolio a bit...
             
 **Link to work:** N/A
+
+
+
+
+### Day 41: June 17, 2020
+
+**Today's Progress:** Created a Twitter bot today. Having a little trouble with continuous deployment but I'll figure it out.
+            
+**Thoughts:** Bots are funny.
+            
+**Link to work:** N/A
