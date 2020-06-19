@@ -447,3 +447,14 @@
 **Thoughts:** Bots are funny.
             
 **Link to work:** N/A
+
+
+
+
+### Day 42: June 18, 2020
+
+**Today's Progress:** I started doing leetcode challenges today. The easy ones are tough so I know I am going to have to work extra hard to get it down. 
+            
+**Thoughts:** I hit 100 Twitter followers. That is amazing to me.
+            
+**Link to work:** N/A
