@@ -458,3 +458,14 @@
 **Thoughts:** I hit 100 Twitter followers. That is amazing to me.
             
 **Link to work:** N/A
+
+
+
+
+### Day 43: June 19, 2020
+
+**Today's Progress:** I did more leetcode today. The struggle is real but I already feel like I am able to break down the problems a lot better than my first few attempts at learning.
+            
+**Thoughts:** I am motivated.
+            
+**Link to work:** N/A
