@@ -469,3 +469,14 @@
 **Thoughts:** I am motivated.
             
 **Link to work:** N/A
+
+
+
+
+### Day 44: June 20, 2020
+
+**Today's Progress:** Today I prepared some notes for a video I am recording. I also started a new project. Let's see where it goes!
+            
+**Thoughts:** I feel as though I didn't get much done today. Perhaps tomorrow I can do more.
+            
+**Link to work:** N/A
