@@ -480,3 +480,14 @@
 **Thoughts:** I feel as though I didn't get much done today. Perhaps tomorrow I can do more.
             
 **Link to work:** N/A
+
+
+
+
+### Day 45: June 21, 2020
+
+**Today's Progress:** Continued work on my new project. It is a web app for my kids! They are getting better at saying the alphabet so I wanted to create something that they can interact with. It's going to be a scrolling alphabet where each letter appears by triggering a scroll animation. I want to try and make it visually appealing and have sound.
+            
+**Thoughts:** I would like to hand draw each letter of the alphabet. I would like to do lower case letters as well.
+            
+**Link to work:** N/A
