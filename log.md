@@ -491,3 +491,14 @@
 **Thoughts:** I would like to hand draw each letter of the alphabet. I would like to do lower case letters as well.
             
 **Link to work:** N/A
+
+
+
+
+### Day 46: June 22, 2020
+
+**Today's Progress:** Hoped right back into solving leetcode problems. Ran into a handful that I wasn't able to come up with solutions for. Stepped away after a while and worked on a new website.
+            
+**Thoughts:** I hope it's a good week for production.
+            
+**Link to work:** N/A
