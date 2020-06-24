@@ -502,3 +502,14 @@
 **Thoughts:** I hope it's a good week for production.
             
 **Link to work:** N/A
+
+
+
+
+### Day 47: June 23, 2020
+
+**Today's Progress:** Layed down some recordings. I should have a video out soon. Solved a couple of leetcode problems. Worked on my low budget Tesla website.
+            
+**Thoughts:** I feel accomplished!
+            
+**Link to work:** N/A
