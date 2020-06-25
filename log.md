@@ -513,3 +513,14 @@
 **Thoughts:** I feel accomplished!
             
 **Link to work:** N/A
+
+
+
+
+### Day 48: June 24, 2020
+
+**Today's Progress:** Leetcode. I also moved some of my old projects over to netlify. 
+            
+**Thoughts:** I think I can finish my video tomorrow.
+            
+**Link to work:** N/A
