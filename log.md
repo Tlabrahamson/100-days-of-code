@@ -524,3 +524,14 @@
 **Thoughts:** I think I can finish my video tomorrow.
             
 **Link to work:** N/A
+
+
+
+
+### Day 49: June 25, 2020
+
+**Today's Progress:** Solved a few leetcode problems, started to remake my portfolio (I want it to be more professional), and finished my first youtube tutorial!
+            
+**Thoughts:** I feel as though I didn't do much today, but I accomplished a lot.
+            
+**Link to work:** N/A
