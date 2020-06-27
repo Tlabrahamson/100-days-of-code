@@ -535,3 +535,14 @@
 **Thoughts:** I feel as though I didn't do much today, but I accomplished a lot.
             
 **Link to work:** N/A
+
+
+
+
+### Day 50: June 26, 2020
+
+**Today's Progress:** Kept it pretty simple today. Just retouched my portfolio.
+            
+**Thoughts:** I get to work on projects tomorrow. Wooh!
+            
+**Link to work:** N/A
