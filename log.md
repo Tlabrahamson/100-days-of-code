@@ -546,3 +546,14 @@
 **Thoughts:** I get to work on projects tomorrow. Wooh!
             
 **Link to work:** N/A
+
+
+
+
+### Day 51: June 27, 2020
+
+**Today's Progress:** I got the result I wanted on the scrolling alphabet project. I may go through and add lower case letters and some shapes.
+            
+**Thoughts:** I need to come up with something bigger to work on. 
+            
+**Link to work:** N/A
