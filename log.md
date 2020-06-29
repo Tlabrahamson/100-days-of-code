@@ -557,3 +557,14 @@
 **Thoughts:** I need to come up with something bigger to work on. 
             
 **Link to work:** N/A
+
+
+
+
+### Day 52: June 28, 2020
+
+**Today's Progress:** Just about finished with a JS course. I read more about algorithms to get pumped for next week. Made a snake game!
+            
+**Thoughts:** Phone call with a client tomorrow.
+            
+**Link to work:** N/A
