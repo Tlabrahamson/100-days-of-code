@@ -568,3 +568,14 @@
 **Thoughts:** Phone call with a client tomorrow.
             
 **Link to work:** N/A
+
+
+
+
+### Day 53: June 29, 2020
+
+**Today's Progress:** Spoke with my client today. Received new content and made updates.
+            
+**Thoughts:** I feel lucky to have such a pleasant client.
+            
+**Link to work:** N/A
