@@ -579,3 +579,14 @@
 **Thoughts:** I feel lucky to have such a pleasant client.
             
 **Link to work:** N/A
+
+
+
+
+### Day 54: June 30, 2020
+
+**Today's Progress:** My day was dedicated to my client's website. 
+            
+**Thoughts:** I don't much care for WordPress.
+            
+**Link to work:** N/A
