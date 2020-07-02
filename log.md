@@ -590,3 +590,14 @@
 **Thoughts:** I don't much care for WordPress.
             
 **Link to work:** N/A
+
+
+
+
+### Day 55: July 1, 2020
+
+**Today's Progress:** Client work day. WordPress updates. Mind numbing.
+            
+**Thoughts:** This website is really coming together. I hope to able to make it look a little bit more pretty.
+            
+**Link to work:** N/A
