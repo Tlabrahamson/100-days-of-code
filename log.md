@@ -601,3 +601,14 @@
 **Thoughts:** This website is really coming together. I hope to able to make it look a little bit more pretty.
             
 **Link to work:** N/A
+
+
+
+
+### Day 56: July 2, 2020
+
+**Today's Progress:** More client work today. Portfolio updates. A little leetcode.
+            
+**Thoughts:** Starting to feel better about my portfolio again.
+            
+**Link to work:** N/A
