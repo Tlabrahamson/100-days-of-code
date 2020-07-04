@@ -612,3 +612,14 @@
 **Thoughts:** Starting to feel better about my portfolio again.
             
 **Link to work:** N/A
+
+
+
+
+### Day 57: July 3, 2020
+
+**Today's Progress:** Got a bit trigger happy and started working on a new project when I should have maybe been studying alogoriths. That's okay though. ;)
+            
+**Thoughts:** I feels good.
+            
+**Link to work:** N/A
