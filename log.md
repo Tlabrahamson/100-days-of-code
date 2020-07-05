@@ -623,3 +623,14 @@
 **Thoughts:** I feels good.
             
 **Link to work:** N/A
+
+
+
+
+### Day 58: July 4, 2020
+
+**Today's Progress:** The site I started working on is coming together. Honestly, anything is better than what they have right now!
+            
+**Thoughts:** Okay.
+            
+**Link to work:** N/A
