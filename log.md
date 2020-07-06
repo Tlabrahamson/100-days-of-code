@@ -634,3 +634,14 @@
 **Thoughts:** Okay.
             
 **Link to work:** N/A
+
+
+
+
+### Day 59: July 5, 2020
+
+**Today's Progress:** More work on restaurant site. Starting to look goodish. 
+            
+**Thoughts:** I wish someone would give me a chance to prove myself worthy of employment. 
+            
+**Link to work:** N/A
