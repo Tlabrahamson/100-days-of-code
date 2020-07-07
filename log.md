@@ -645,3 +645,15 @@
 **Thoughts:** I wish someone would give me a chance to prove myself worthy of employment. 
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 60: July 6, 2020
+
+**Today's Progress:** Just about done with the site. Just have to add the mobile menu and correct some styling. 
+            
+**Thoughts:** I'm shooting to reach out on Wednesday.
+            
+**Link to work:** N/A
