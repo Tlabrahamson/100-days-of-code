@@ -657,3 +657,15 @@
 **Thoughts:** I'm shooting to reach out on Wednesday.
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 61: July 7, 2020
+
+**Today's Progress:** My plan is to make a few more tweaks and then reach out to the restaurant tomorrow.
+            
+**Thoughts:** Let's see how this goes.
+            
+**Link to work:** N/A
