@@ -669,3 +669,15 @@
 **Thoughts:** Let's see how this goes.
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 62: July 7, 2020
+
+**Today's Progress:** Reached out to the restaurant today. Worked on my portfolio.
+            
+**Thoughts:** Feel good but bad at the same time.
+            
+**Link to work:** N/A
