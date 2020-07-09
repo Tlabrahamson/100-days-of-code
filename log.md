@@ -674,7 +674,7 @@
 
 
 
-### Day 62: July 7, 2020
+### Day 62: July 8, 2020
 
 **Today's Progress:** Reached out to the restaurant today. Worked on my portfolio.
             
