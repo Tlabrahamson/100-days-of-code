@@ -681,3 +681,15 @@
 **Thoughts:** Feel good but bad at the same time.
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 63: July 9, 2020
+
+**Today's Progress:** Wanted to get stuff done. Didn't get as much done as I thought I would today.
+            
+**Thoughts:** I just want to work on my portfolio...
+            
+**Link to work:** N/A
