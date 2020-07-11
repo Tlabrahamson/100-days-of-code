@@ -693,3 +693,15 @@
 **Thoughts:** I just want to work on my portfolio...
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 64: July 10, 2020
+
+**Today's Progress:** Busy day. Got client stuff done, worked on my portfolio, AND started re-learning Java. 
+            
+**Thoughts:** Got some animations going on my portfolio. Shweet. 
+            
+**Link to work:** N/A
