@@ -705,3 +705,15 @@
 **Thoughts:** Got some animations going on my portfolio. Shweet. 
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 65: July 11, 2020
+
+**Today's Progress:** Ayyyy. Got to work on my portfolio a bit.
+            
+**Thoughts:** Cruising along. Time to get a job right?
+            
+**Link to work:** N/A
