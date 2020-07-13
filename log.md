@@ -717,3 +717,14 @@
 **Thoughts:** Cruising along. Time to get a job right?
             
 **Link to work:** N/A
+
+
+
+
+### Day 66: July 12, 2020
+
+**Today's Progress:** Today was dedicated to Java.
+            
+**Thoughts:** Still enjoying it.
+            
+**Link to work:** N/A
