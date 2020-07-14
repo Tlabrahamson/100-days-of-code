@@ -728,3 +728,15 @@
 **Thoughts:** Still enjoying it.
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 67: July 13, 2020
+
+**Today's Progress:** Did one Java exercise and a little work on my portfolio.
+            
+**Thoughts:** An 'almost' off day I guess. Still coded for over an hour, but less than usual.
+            
+**Link to work:** N/A
