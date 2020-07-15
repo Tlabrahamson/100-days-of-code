@@ -740,3 +740,14 @@
 **Thoughts:** An 'almost' off day I guess. Still coded for over an hour, but less than usual.
             
 **Link to work:** N/A
+
+
+
+
+### Day 68: July 13, 2020
+
+**Today's Progress:** Just about finished with my portfolio. Did some light client work. Sent out some applications.
+            
+**Thoughts:** I need more time!
+            
+**Link to work:** N/A
