@@ -744,7 +744,7 @@
 
 
 
-### Day 68: July 13, 2020
+### Day 68: July 14, 2020
 
 **Today's Progress:** Just about finished with my portfolio. Did some light client work. Sent out some applications.
             
