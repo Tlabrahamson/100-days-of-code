@@ -751,3 +751,15 @@
 **Thoughts:** I need more time!
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 69: July 15, 2020
+
+**Today's Progress:** Chugging along with Java. Taking my time though.
+            
+**Thoughts:** I don't exactly feel amazing. Kind of sad actually. The more I apply for jobs, the more I feel inadequate. I'd love to break through that feeling.
+            
+**Link to work:** N/A
