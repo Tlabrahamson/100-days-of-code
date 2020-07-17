@@ -763,3 +763,15 @@
 **Thoughts:** I don't exactly feel amazing. Kind of sad actually. The more I apply for jobs, the more I feel inadequate. I'd love to break through that feeling.
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 70: July 16, 2020
+
+**Today's Progress:** Light client work. Created my Github README.md
+            
+**Thoughts:** I may have an interview next week? Hopefully?
+            
+**Link to work:** N/A
