@@ -775,3 +775,15 @@
 **Thoughts:** I may have an interview next week? Hopefully?
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 71: July 17, 2020
+
+**Today's Progress:** Client work. They are pumped.
+            
+**Thoughts:** Only did client work this evening. 
+            
+**Link to work:** N/A
