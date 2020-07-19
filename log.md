@@ -787,3 +787,14 @@
 **Thoughts:** Only did client work this evening. 
             
 **Link to work:** N/A
+
+
+
+
+### Day 72: July 18, 2020
+
+**Today's Progress:** Messed around with the MERN stack today.
+            
+**Thoughts:** Can't wait to see what I can throw together with this.
+            
+**Link to work:** N/A
