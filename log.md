@@ -798,3 +798,14 @@
 **Thoughts:** Can't wait to see what I can throw together with this.
             
 **Link to work:** N/A
+
+
+
+
+### Day 73: July 19, 2020
+
+**Today's Progress:** Continued with MERN stack.
+            
+**Thoughts:** Ran into some buggies. 
+            
+**Link to work:** N/A
