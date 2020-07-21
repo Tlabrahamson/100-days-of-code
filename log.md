@@ -809,3 +809,15 @@
 **Thoughts:** Ran into some buggies. 
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 74: July 20, 2020
+
+**Today's Progress:** Worked more with Java. Continued building my MERN stack app.
+            
+**Thoughts:** Just have to fix some bugs on the app. I'll likely push it to the weekend. Serious business/learning this week.
+            
+**Link to work:** N/A
