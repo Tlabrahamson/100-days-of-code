@@ -821,3 +821,15 @@
 **Thoughts:** Just have to fix some bugs on the app. I'll likely push it to the weekend. Serious business/learning this week.
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 75: July 21, 2020
+
+**Today's Progress:** Continued with Java. Having fun.
+            
+**Thoughts:** Interview on Thursday. Let's get this one. 
+            
+**Link to work:** N/A
