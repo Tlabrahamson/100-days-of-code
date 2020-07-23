@@ -833,3 +833,15 @@
 **Thoughts:** Interview on Thursday. Let's get this one. 
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 76: July 22, 2020
+
+**Today's Progress:** Finished my Java course.
+            
+**Thoughts:** Interview tomorrow. I need this to be the one. 
+            
+**Link to work:** N/A
