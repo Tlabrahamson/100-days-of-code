@@ -845,3 +845,16 @@
 **Thoughts:** Interview tomorrow. I need this to be the one. 
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 77: July 23, 2020
+
+**Today's Progress:** Java and leetcode. The breakfast of champions. Or something like that.
+            
+**Thoughts:** Got through interview one. Interview two one Wednesday. DO IT!
+            
+**Link to work:** N/A
+
