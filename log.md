@@ -858,3 +858,15 @@
             
 **Link to work:** N/A
 
+
+
+
+
+### Day 78: July 24, 2020
+
+**Today's Progress:** Switched between edabit and leetcode today. No project this weekend. Only problem solving.
+            
+**Thoughts:** I HAVE to do well on Wednesday. I'm closer than ever.
+            
+**Link to work:** N/A
+
