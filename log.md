@@ -870,3 +870,15 @@
             
 **Link to work:** N/A
 
+
+
+
+
+### Day 79: July 25, 2020
+
+**Today's Progress:** Edabit. Leetcode.
+            
+**Thoughts:** Starting to feel good about things.
+            
+**Link to work:** N/A
+
