@@ -882,3 +882,14 @@
             
 **Link to work:** N/A
 
+
+
+
+
+### Day 80: July 26, 2020
+
+**Today's Progress:** Edabit. Leetcode. Again!
+            
+**Thoughts:** I am nervous. I am excited. Tomorrow starts a very important week.
+            
+**Link to work:** N/A
