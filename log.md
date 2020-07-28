@@ -893,3 +893,15 @@
 **Thoughts:** I am nervous. I am excited. Tomorrow starts a very important week.
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 81: July 27, 2020
+
+**Today's Progress:** Very light client work today. Phone call with client tomorrow morning. Also did leetcode.
+            
+**Thoughts:** Trying to get past my nerves for Wednesday. Gotta nail it.
+            
+**Link to work:** N/A
