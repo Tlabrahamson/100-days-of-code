@@ -905,3 +905,27 @@
 **Thoughts:** Trying to get past my nerves for Wednesday. Gotta nail it.
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 82: July 28, 2020
+
+**Today's Progress:** Edabit, Leetcode, and a bit of TDD.
+            
+**Thoughts:** Tomorrow is the big day!
+            
+**Link to work:** N/A
+
+
+
+
+
+### Day 83: July 29, 2020
+
+**Today's Progress:** My first ever technical interview was today. I also did some client work.
+            
+**Thoughts:** I am unsure as to whether I am going to make it to the next stage in the interview process. I feel a lot better than I did after the first interview but I know I could have done better had I practiced more TDD beforehand. I had fun during the interview though. Fingers crossed.
+            
+**Link to work:** N/A
