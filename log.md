@@ -929,3 +929,15 @@
 **Thoughts:** I am unsure as to whether I am going to make it to the next stage in the interview process. I feel a lot better than I did after the first interview but I know I could have done better had I practiced more TDD beforehand. I had fun during the interview though. Fingers crossed.
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 84: July 30, 2020
+
+**Today's Progress:** Oooooo I got rejected. It strings but I will never give up the dream! I started a new MERN stack application. Worked on user authentication.
+            
+**Thoughts:** I hope more jobs open up with entry level positions. The job hunt is hard.
+            
+**Link to work:** N/A
