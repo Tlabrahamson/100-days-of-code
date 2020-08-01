@@ -941,3 +941,15 @@
 **Thoughts:** I hope more jobs open up with entry level positions. The job hunt is hard.
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 85: July 31, 2020
+
+**Today's Progress:** Finished user auth on MERN app. Looking into storing more data with the user. Gotta make the home page better too.
+            
+**Thoughts:** Ugh. The job hunt stings me.
+            
+**Link to work:** N/A
