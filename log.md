@@ -953,3 +953,15 @@
 **Thoughts:** Ugh. The job hunt stings me.
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 86: August 1, 2020
+
+**Today's Progress:** Made some backend adjustments and worked on frontend styling for MERN app. 
+            
+**Thoughts:** Want to work more but it's late.
+            
+**Link to work:** N/A
