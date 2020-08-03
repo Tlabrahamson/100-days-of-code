@@ -965,3 +965,15 @@
 **Thoughts:** Want to work more but it's late.
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 87: August 2, 2020
+
+**Today's Progress:** Worked on client stuff. Got to add some layout to MERN stack edit profile page. Updated styling. 
+            
+**Thoughts:** I wish I had more time to work on projects. :(
+            
+**Link to work:** N/A
