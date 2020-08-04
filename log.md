@@ -977,3 +977,15 @@
 **Thoughts:** I wish I had more time to work on projects. :(
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 88: August 3, 2020
+
+**Today's Progress:** Added the ability to change display name and bio on MERN app. Applied for some jobies.
+            
+**Thoughts:** There is never enough time. 
+            
+**Link to work:** N/A
