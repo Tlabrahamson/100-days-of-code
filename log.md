@@ -989,3 +989,15 @@
 **Thoughts:** There is never enough time. 
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 89: August 4, 2020
+
+**Today's Progress:** Update profile route is working well on MERN app now. Looking to handling image uploads next.
+            
+**Thoughts:** I feel kind of accomplished this evening.
+            
+**Link to work:** N/A
