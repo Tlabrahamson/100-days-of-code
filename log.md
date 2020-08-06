@@ -1001,3 +1001,15 @@
 **Thoughts:** I feel kind of accomplished this evening.
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 90: August 5, 2020
+
+**Today's Progress:** Half way done with user image upload. Got a file path sending to the database but no image display. 
+            
+**Thoughts:** I know I am close to figuring this out!
+            
+**Link to work:** N/A
