@@ -1013,3 +1013,15 @@
 **Thoughts:** I know I am close to figuring this out!
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 91: August 6, 2020
+
+**Today's Progress:** BUH! I broke it. I broke it all.
+            
+**Thoughts:** I hope some good comes out of my quickie interview today.
+            
+**Link to work:** N/A
