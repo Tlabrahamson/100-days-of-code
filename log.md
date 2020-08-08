@@ -1025,3 +1025,15 @@
 **Thoughts:** I hope some good comes out of my quickie interview today.
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 92: August 7, 2020
+
+**Today's Progress:** Tracked down my MERN issue today but focused mostly on web design with Figma.
+            
+**Thoughts:** Didn't hear back from HC3 :(. I guess there is always next week. Fingers crossed.
+            
+**Link to work:** N/A
