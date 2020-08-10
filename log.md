@@ -1037,3 +1037,15 @@
 **Thoughts:** Didn't hear back from HC3 :(. I guess there is always next week. Fingers crossed.
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 93: August 9, 2020
+
+**Today's Progress:** Took the day "off" yesterday. Still a bit flustered today. Imposter syndrome is tearing me down at the moment.
+            
+**Thoughts:** I just want some good news. Feeling pretty crushed lately.
+            
+**Link to work:** N/A
