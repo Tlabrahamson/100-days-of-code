@@ -1049,3 +1049,15 @@
 **Thoughts:** I just want some good news. Feeling pretty crushed lately.
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 94: August 10, 2020
+
+**Today's Progress:** Stepping away from MERN stack project to clear my head. Started building a resource chatbot with Fredrik Oseberg's react-chatbox-kit. Having a good time playing around with it. 
+            
+**Thoughts:** Feeling a bit better today. I am job hungry.
+            
+**Link to work:** N/A
