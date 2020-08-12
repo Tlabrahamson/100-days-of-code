@@ -1061,3 +1061,15 @@
 **Thoughts:** Feeling a bit better today. I am job hungry.
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 95: August 11, 2020
+
+**Today's Progress:** Java practice today. Interview tomorrow. Mostly nervous because I have no clue what the interview will entail besides getting on the webcam and having a chat. 
+            
+**Thoughts:** GOTTA NAIL IT! GOTTA!
+            
+**Link to work:** N/A
