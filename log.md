@@ -1073,3 +1073,15 @@
 **Thoughts:** GOTTA NAIL IT! GOTTA!
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 96: August 12, 2020
+
+**Today's Progress:** I feel like my interview with HC3 went well. I hope to hear back from them by the end of the week. Worked on some WordPress client work and then solved some leetcode problems.
+            
+**Thoughts:** I'm going to be working hard this week. Phone call with client tomorrow. 
+            
+**Link to work:** N/A
