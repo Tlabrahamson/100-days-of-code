@@ -1085,3 +1085,15 @@
 **Thoughts:** I'm going to be working hard this week. Phone call with client tomorrow. 
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 97: August 13, 2020
+
+**Today's Progress:** Phone call with clients went well. Spent the rest of the evening working on the website.
+            
+**Thoughts:** WORDPRESS!!!!Y U DO DIS TO ME!?
+            
+**Link to work:** N/A
