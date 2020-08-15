@@ -1097,3 +1097,15 @@
 **Thoughts:** WORDPRESS!!!!Y U DO DIS TO ME!?
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 98: August 14, 2020
+
+**Today's Progress:** Worked on client's WordPress site this evening. Checklist is almost checked off.
+            
+**Thoughts:** WOOOOOOOOOOOOOOOOORDPREEEEEEEEEEESSSSSSS!
+            
+**Link to work:** N/A
