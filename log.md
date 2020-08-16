@@ -1109,3 +1109,15 @@
 **Thoughts:** WOOOOOOOOOOOOOOOOORDPREEEEEEEEEEESSSSSSS!
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 99: August 15, 2020
+
+**Today's Progress:** Leetcode.
+            
+**Thoughts:** L337C0D3
+            
+**Link to work:** N/A
