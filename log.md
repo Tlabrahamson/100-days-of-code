@@ -1121,3 +1121,15 @@
 **Thoughts:** L337C0D3
             
 **Link to work:** N/A
+
+
+
+
+
+### Day 100: August 16, 2020
+
+**Today's Progress:** Leetcode Leetcode Leetcode.
+            
+**Thoughts:** I completed the 100 day challenge. That's cool.
+            
+**Link to work:** N/A
